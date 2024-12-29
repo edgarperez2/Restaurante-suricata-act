@@ -1,6 +1,6 @@
 # Restaurante-suricata-act
 Restaurante suricata actualizado
-para porder visiaulizar la pagina se debe:
+para porder visiaulizar la pagina se debe abrir una terminal:
 1- npm install  (para instalar los archivos faltantes de la APP)
 2- npm run serve
 3-  App running at:
